@@ -1,2 +1,1 @@
-# How to run FSAR tests in [Headless Chrome](https://fullstackautomationwithruby.com/Headless-Chrome)
-# fsar_session11
+# FSAR SESSION 11 ~ [Cucumber Hooks File](https://fullstackautomationwithruby.com/Cucumber-Hooks-File)
